@@ -1,0 +1,29 @@
+{
+# 公众号配置
+# 公众号appId
+"app_id": "wx23d83c9fc23a8687",
+# 公众号appSecret
+"app_secret": "bb0b5e7968154d096fb14c0a09d7d205",
+# 模板消息id
+"template_id": "6NX8glAvwggNxKtXTgMX7dN330s6u8NgkxMqUjDr2Qk",
+# 接收公众号消息的微信号，如果有多个，需要在[]里用英文逗号间隔，例如["wx1""wx1",]
+"user": ["o72Xa6dTrQrJMVx8VPeuyMh7e9WM","o72Xa6RlRJTbScyaoDCz2JGijQpk"],
+
+# 信息配置
+# 和风天气apikey
+"weather_key": "bae5b5895cfc4620b8637262b54bf41d",
+# 天行数据apikey
+"tian_api": "78a80ad877a9dc8d23a816643d99c9a1",
+# 所在地区，可为省，城市，区，县，同时支持国外城市，例如伦敦(国外城市可能获取不到pm2.5，空气质量，今日建议等数据)
+"region": "兴县",
+# 生日1
+"birthday1": {"name": "康康", "birthday": "r1999-9-6"},
+# 生日2
+"birthday2": {"name": "日天", "birthday": "r1997-10-8"},
+# 在一起的日子，格式同上
+"love_date": "2020-5-20",
+# 金句中文# 生日2，如果为空，默认会读取金山的每日金句
+"note_ch": "两姓联姻，一堂缔约，良缘永结，匹配同称。看此日桃花灼灼，宜室宜家，卜他年瓜瓞绵绵，尔昌尔炽。谨以白头之约，书向鸿笺，好将红叶之盟，载明鸳谱。此证",
+# 金句英文
+"note_en": "来信啦"
+}
